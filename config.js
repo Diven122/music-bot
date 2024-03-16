@@ -1,5 +1,5 @@
 module.exports = {
-  TOKEN: "MTIxODQzNDgwNDUzODkzMzM0MQ.GrTkyZ.dnrjsb0ECLEeqrPu-kFmQS6pZ0D0TUhoQw8Bbo",
+  TOKEN: "",
   ownerID: ["967394612400492574", "1098956681221775420"],
   botInvite: "https://discord.com/oauth2/authorize?client_id=1218434804538933341&permissions=8&scope=bot",
   supportServer: "https://discord.gg/JdsByZYazp",
